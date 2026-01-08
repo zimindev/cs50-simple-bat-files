@@ -1,4 +1,4 @@
-bash'''
+```bat
 @echo off
 title SysAdmin Directory Structure
 
@@ -15,4 +15,4 @@ mkdir Tools
 echo.
 echo Directories successfully created.
 pause
-'''
+```
