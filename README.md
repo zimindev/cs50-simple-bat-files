@@ -186,5 +186,3 @@ pause
 * 🔐 `.bat` files run with user permissions
 * ⚙ Use `setlocal EnableDelayedExpansion` for advanced logic
 * 🆕 `.cmd` is recommended for modern scripts
-
----
